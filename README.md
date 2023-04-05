@@ -45,6 +45,7 @@ To regiter your server on master servers add this commad to start.sh or server.c
 
 This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement-for-cod4-x-servers-to-get-listed-on-masterserver/page/7/&tab=comments#comment-20206">link</a> will help ypu to get token.
 
+<br>
 
 ✎ If you have any problems contact me via discord : SaM ™#9353
 
@@ -54,6 +55,7 @@ This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement
 
 🌐 Website : https://www.enforcers.lk/
 
+<br>
 
 <div align="center">
 	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/dp-wp-yt-round.png" width="40" height="50">
