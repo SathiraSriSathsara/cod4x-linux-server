@@ -1,2 +1,57 @@
-# cod4x-linux-server
-Bash script for Call Of Duty 4 ModernWarfia Linux server  - Made by SaM
+# Cod4x-linux-server Install Script (Ubuntu) - SaM
+
+Bash script for Call Of Duty 4 ModernWarfia Linux server
+
+
+## Installation
+
+Clone respo
+
+```bash
+git clone https://github.com/SathiraSriSathsara/cod4x-linux-server.git
+```
+
+Run Script
+
+```bash
+cd cod4x-linux-server
+chmod 777 *
+./install.sh
+```
+
+## Server Information 
+
+╰┈➤ Max Client >> 32
+
+╰┈➤ Defult Gamemode >> S&D
+
+╰┈➤ Defult map >> Chrash
+
+╰┈➤ Rcon password >> rconpasswd
+
+╰┈➤ ModName >> yourmod (Add your mod files to mods/yourmod folder)
+
+╰┈➤ DefultMod >> promodlive220_flags_mod
+
+
+If you want to change these setting edit start.sh file :)
+
+
+To regiter your server on master servers add this commad to start.sh or server.cfg
+
++set sv_authtoken "YOUR_STAEM_ID"
+
+
+✎ If you have any problems contact me via discord : SaM ™#9353
+
+✎ Discord server : https://discord.gg/TRYZMZsQWF
+
+✎ Teamspeak : ts.enforcers.lk
+
+🌐 Website : https://www.enforcers.lk/
+
+
+
+
+
+
