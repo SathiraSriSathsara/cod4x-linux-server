@@ -24,7 +24,7 @@ rm cod4x-linux-server.zip
 cd /home/servers/cod4x-linux-server
 
 # Start the server
- chmod +x start.sh
+ chmod 777 *
 ./start.sh
 
 # Detach from the screen session
