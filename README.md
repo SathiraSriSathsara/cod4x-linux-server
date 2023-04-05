@@ -1,6 +1,6 @@
 # Cod4x-linux-server Install Script (Ubuntu) - SaM
 
-Bash script for <b>Call Of Duty 4 Modern Warfia Linux server</b> in just <b>4</b> steps :)
+Bash script ton install <b>Call Of Duty 4 Modern Warfia Linux server</b> on Ubuntu in just <b>4</b> steps :)
 
 
 ## Installation
