@@ -31,7 +31,7 @@ chmod 777 *
 
 ╰┈➤ ModName >> yourmod (Add your mod files to mods/yourmod folder)
 
-╰┈➤ DefultMod >> promodlive220_flags_mod
+╰┈➤ DefultMod >> <a href="https://github.com/CGCNight/promodlive220_flags_mod">promodlive220_flags_mod</a>
 
 
 If you want to change these setting edit start.sh file :)
