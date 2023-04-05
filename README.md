@@ -40,7 +40,7 @@ If you want to change these setting edit start.sh file :)
 To regiter your server on master servers add this commad to start.sh or server.cfg
 
 ```bash
-+set sv_authtoken "YOUR_STAEM_ID"
++set sv_authtoken "YOUR_TOKEN"
 ```
 
 ✎ If you have any problems contact me via discord : SaM ™#9353
