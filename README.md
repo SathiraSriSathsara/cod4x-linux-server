@@ -39,11 +39,10 @@ If you want to change these setting edit start.sh file :)
 
 To regiter your server on master servers add this commad to start.sh or server.cfg
 
-This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement-for-cod4-x-servers-to-get-listed-on-masterserver/page/7/&tab=comments#comment-20206">link</a> will help ypu to get token.
-
 ```bash
 +set sv_authtoken "YOUR_TOKEN"
 ```
+This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement-for-cod4-x-servers-to-get-listed-on-masterserver/page/7/&tab=comments#comment-20206">link</a> will help ypu to get token.
 
 ✎ If you have any problems contact me via discord : SaM ™#9353
 
