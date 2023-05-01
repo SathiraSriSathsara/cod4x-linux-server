@@ -4,28 +4,27 @@ echo "Script by Sathira Sri Sathsara (SaM)"
 
 
 # Update the system and install dependencies
-dpkg --add-architecture i386
-sudo apt-get update
-sudo apt-get upgrade -y
+sudo dpkg --add-architecture i386
+sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
 sudo apt-get install unzip -y
 
 # Get gdown and python pip
-apt install python-pip
-pip install gdown
+sudo apt install python-pip
+sudo pip install gdown
 
 # Download the server files
 cd /home
-mkdir servers
+sudo mkdir servers
 cd /home/servers
-gdown 1YhrP8OV0l-LKJKHC6BoRg7pQ1Bki4zYd
-unzip cod4x-linux-server.zip
-rm cod4x-linux-server.zip
+sudo gdown 1YhrP8OV0l-LKJKHC6BoRg7pQ1Bki4zYd
+sudo unzip cod4x-linux-server.zip
+sudo rm cod4x-linux-server.zip
 cd /home/servers/cod4x-linux-server
 
 # Start the server
- chmod 777 *
-./start.sh
+sudo chmod 777 *
+sudo ./start.sh
 
 # Detach from the screen session
 Ctrl-A, Ctrl-D
