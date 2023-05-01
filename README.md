@@ -18,8 +18,8 @@ Run Script
 
 ```bash
 cd cod4x-linux-server
-chmod 777 *
-./install.sh
+sudo chmod 777 *
+sudo ./install.sh
 ```
 
 ## Server Information 
