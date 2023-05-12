@@ -50,21 +50,20 @@ This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement
 
 <br>
 
-✎ If you have any problems contact me via discord : SaM ™#9353
+💬 If you have any problems contact me via discord : SaM ™#9353
 
-✎ Discord server : https://discord.gg/TRYZMZsQWF
+📞 Discord server : https://discord.gg/TRYZMZsQWF
 
-✎ Teamspeak : ts.enforcers.lk
+🗣️ Teamspeak : ts.enforcers.lk
 
 🌐 Website : https://www.enforcers.lk/
 
 <br>
 
 <div align="center">
-	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/dp-wp-yt-round.png" width="40" height="50">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
 	<h4>Sathira Sri Sathsara @ 2023</h4>
 </div>	
-
 
 
 
