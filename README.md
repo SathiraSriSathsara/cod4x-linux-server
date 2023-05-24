@@ -6,6 +6,8 @@ Bash script to install <b>Call Of Duty 4 Modern Warfia Linux server</b> on Ubunt
 	✅ Eassy and Fast!!<br>
 	✅ Manage with Web panel (coming soon..)
 
+Testing on Google Cloud VM (Ubuntu 18.4) >> https://web.facebook.com/sathix.bro.5/videos/1333027637279391/?notif_id=1684959865966366&notif_t=video_processed&ref=notif
+
 ## Installation
 
 Clone respo
