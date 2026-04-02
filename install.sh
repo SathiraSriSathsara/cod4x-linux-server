@@ -4,25 +4,31 @@ echo "Script by Sathira Sri Sathsara (SaM)"
 
 # Update the system and install dependencies
 sudo dpkg --add-architecture i386
-sudo apt-get update && sudo apt-get upgrade -y
-sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
-sudo apt-get install unzip -y
+sudo apt-get update
+sudo apt-get install -y libc6:i386 libncurses5:i386 libstdc++6:i386 unzip screen
 
-# Get gdown and python pip
-sudo apt install python-pip
-sudo pip install gdown
+# Get gdown and python3 pip
+sudo apt-get install -y python3-pip
+sudo pip3 install gdown
 
 # Download the server files
-cd /home
-sudo mkdir servers
+# We use /home/servers as per original script
+sudo mkdir -p /home/servers
 cd /home/servers
+
+echo "Downloading COD4x Server files..."
 sudo gdown --id 1YhrP8OV0l-LKJKHC6BoRg7pQ1Bki4zYd
-sudo unzip cod4x-linux-server.zip
+sudo unzip -o cod4x-linux-server.zip
 sudo rm cod4x-linux-server.zip
+
 cd /home/servers/cod4x-linux-server
 
 # Start the server
-sudo chmod 777 *
-sudo screen -S cod4x-server ./start.sh
+sudo chmod +x *
+sudo screen -dmS cod4x-server ./start.sh
 
-echo "Server Started Enjoy <3 [SaM]"
+echo "------------------------------------------------"
+echo "Server Started in a screen session: cod4x-server"
+echo "Use 'screen -r cod4x-server' to view the console"
+echo "Enjoy <3 [SaM]"
+echo "------------------------------------------------"
