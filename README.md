@@ -84,8 +84,13 @@ This <a href="https://old.cod4x.ovh/index.php?/forums/topic/2814-new-requirement
 
 <br>
 
+## Contributors
+
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SathiraSriSathsara/cod4x-linux-server" />
+</a>
+
 <div align="center">
-	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
 	<h4>Sathira Sri Sathsara @ 2023 - 2024</h4>
 </div>	
 
