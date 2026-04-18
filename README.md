@@ -1,4 +1,4 @@
-# Cod4x-linux-server Install Script (Ubuntu) - SaM
+# Cod4x-linux-server Install Script
 
 Bash script to install **Call Of Duty 4 Modern Warfare Linux server** on Ubuntu in just **4** steps :) <br><br>
 	✅ Tested on **Ubuntu 18.04, 20.04, 22.04, 24.04**<br>
